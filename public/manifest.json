@@ -1,0 +1,17 @@
+{
+  "name": "2024 Number Puzzle",
+  "short_name": "Puzzle 2024",
+  "description": "Dynamic number puzzle with ambient chords and multiple grid modes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0c1a",
+  "theme_color": "#0d0c1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
