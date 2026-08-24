@@ -126,19 +126,21 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 💖 Thank You for Visiting!
+---
 
-> *"Thank you so much for taking the time to explore Color Puzzle 2024!"* 🌟
+## 💖 Thank You for Playing & Exploring!
 
-Taking your precious time to inspect this project, walk through the features, and review my code means the world to me. Every single repository I build is an opportunity to learn, innovate, and push the boundaries of software engineering.
+> *"Thank you for sliding through the world of Color Puzzle 2024!"* 🧩
 
-- 🌟 **Enjoyed the project?** Feel free to leave a **Star** on this repository—your support provides immense motivation to keep building exciting projects!
-- 📬 **Let's Connect:** I am always open to constructive feedback, technical discussions, and exciting engineering opportunities. Feel free to explore my other repositories or connect with me directly on [GitHub](https://github.com/SriniwasAwasthi).
+Building responsive game loops, smooth tile slide physics, and engaging browser mechanics has been a thrilling engineering adventure. Taking your precious time to test this game, review the logic, and inspect my codebase is deeply appreciated.
 
-*Wishing you a wonderful day ahead, and thank you once again for stopping by!* ✨
+- 🌟 **Enjoyed the gameplay?** Consider starring this repository—it inspires me to build more creative interactive browser games!
+- 📬 **Let's Connect:** I'm always open to feedback on game algorithms, frontend optimization, and new project collaborations. Connect with me on [GitHub](https://github.com/SriniwasAwasthi)!
+
+*Wishing you high scores, happy coding, and a wonderful day ahead!* ✨
 
 ---
 
 <div align="center">
-  <sub>Crafted with passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Crafted with passion for interactive web gaming by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
