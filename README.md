@@ -105,7 +105,7 @@ pnpm run dev
 ```
 
 ### 5. Open in Browser
-Open your browser to the local development server URL to start playing!
+Visit **`http://localhost:5173/`** in your browser to start playing!
 
 ---
 
