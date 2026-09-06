@@ -144,3 +144,13 @@ Building responsive game loops, smooth tile slide physics, and engaging browser 
 <div align="center">
   <sub>Crafted with passion for interactive web gaming by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
+
+## 🏛️ Game Engine Architecture
+
+```mermaid
+graph TD
+    Player["🎮 Player"] --> Grid["🧩 Interactive Number Tile Grid"]
+    Grid --> Motion["✨ Dynamic Slide & Merge Physics Engine"]
+    Grid --> Rules["🏆 Scoring & Level Progression Engine"]
+    Grid --> Audio["🎵 Web Audio API Sound Effects"]
+```
