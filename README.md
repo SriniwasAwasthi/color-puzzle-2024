@@ -128,24 +128,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 💖 Thank You for Playing & Exploring!
-
-> *"Thank you for sliding through the world of Color Puzzle 2024!"* 🧩
-
-Building responsive game loops, smooth tile slide physics, and engaging browser mechanics has been a thrilling engineering adventure. Taking your precious time to test this game, review the logic, and inspect my codebase is deeply appreciated.
-
-- 🌟 **Enjoyed the gameplay?** Consider starring this repository—it inspires me to build more creative interactive browser games!
-- 📬 **Let's Connect:** I'm always open to feedback on game algorithms, frontend optimization, and new project collaborations. Connect with me on [GitHub](https://github.com/SriniwasAwasthi)!
-
-*Wishing you high scores, happy coding, and a wonderful day ahead!* ✨
-
----
-
-<div align="center">
-  <sub>Crafted with passion for interactive web gaming by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
-</div>
-
-## 🏛️ Game Engine Architecture
+## 🏛️ System Architecture
 
 ```mermaid
 graph TD
@@ -154,3 +137,17 @@ graph TD
     Grid --> Rules["🏆 Scoring & Level Progression Engine"]
     Grid --> Audio["🎵 Web Audio API Sound Effects"]
 ```
+
+---
+
+## 💖 Thank You for Visiting & Exploring 🎮 Color Puzzle 2024 (2024 Tile Game)!
+
+> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+
+* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com).
+
+---
+<div align="center">
+  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>
+</div>
