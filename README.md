@@ -86,7 +86,7 @@ Make sure you have installed:
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/color-puzzle-2024.git
+git clone https://github.com/SriniwasAwasthi/color-puzzle-2024.git
 cd color-puzzle-2024
 ```
 
@@ -103,9 +103,6 @@ npm run dev
 # or
 pnpm run dev
 ```
-
-### 5. Open in Browser
-Visit **`http://localhost:5173/`** in your browser to start playing!
 
 ---
 
@@ -126,8 +123,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
----
-
 ## 🏛️ System Architecture
 
 ```mermaid
@@ -142,7 +137,7 @@ graph TD
 
 ## 💖 Thank You for Visiting & Exploring 🎮 Color Puzzle 2024 (2024 Tile Game)!
 
-> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+> *\"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey.\"* 🚀
 
 * 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
 * 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com)
